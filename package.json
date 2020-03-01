@@ -1,0 +1,19 @@
+{
+  "name": "removetwo",
+  "version": "1.0.0",
+  "description": "will remove",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdanyr/removetwo.git"
+  },
+  "author": "danielaR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdanyr/removetwo/issues"
+  },
+  "homepage": "https://github.com/zdanyr/removetwo#readme"
+}
